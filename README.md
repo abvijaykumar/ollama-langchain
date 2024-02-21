@@ -14,4 +14,4 @@ Before you start, make sure you have the following dependencies listed in your `
 
 ### Refer to the blog here
 
-(Ollama - Build a ChatBot with Langchain, Ollama & Deploy on Docker)[]
+(Ollama - Build a ChatBot with Langchain, Ollama & Deploy on Docker)[https://abvijaykumar.medium.com/ollama-build-a-chatbot-with-langchain-ollama-deploy-on-docker-5dfcfd140363]
